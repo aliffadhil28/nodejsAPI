@@ -1,0 +1,24 @@
+F:\Project Kuliah\restful-api
+├── config
+|  └── database.js
+├── controllers
+|  └── user_controller.js
+├── frontend
+|  ├── public
+|  └── src
+├── index.js
+├── migrations
+|  └── 20230107152809-create-user.cjs
+├── models
+|  ├── index.js
+|  ├── user.js
+|  └── user_model.js
+├── out.txt
+├── routes
+|  └── user_routes.js
+└── seeders
+   └── 20230107154843-seed-user.cjs
+
+directory: 160 file: 10
+
+ignored: directory (2), file (6)
